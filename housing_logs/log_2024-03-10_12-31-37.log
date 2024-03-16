@@ -1,0 +1,7 @@
+[2024-03-10 12:31:37,938] root - INFO - Start program
+[2024-03-10 12:31:37,938] root - INFO - 
+        Error occured in script: 
+        [ E:\MACHINE_LEARNING\HOUSE_PRICE_PREDICTION\app.py ] at 
+        try block line number: [8] and exception block line number: [11] 
+        error message: [division by zero]
+        
