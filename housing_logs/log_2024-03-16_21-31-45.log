@@ -1,0 +1,2 @@
+[2024-03-16 21:31:57,301] root - INFO - training pipeline config: TrainingPipelineConfig(artifact_dir='e:\\MACHINE_LEARNING\\HOUSE_PRICE_PREDICTION\\housing\\artifact')
+[2024-03-16 21:32:09,944] root - INFO - training pipeline config: TrainingPipelineConfig(artifact_dir='e:\\MACHINE_LEARNING\\HOUSE_PRICE_PREDICTION\\housing\\artifact')
